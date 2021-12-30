@@ -6,10 +6,10 @@
 <table>
   <td align="center">
     <details open><summary>For an user or an organization</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.svg">
+      <img src="https://github.com/b-khan7276/b-khan7276/blob/master/metrics.plugin.introduction.svg">
     </details>
     <details><summary>For a repository</summary>
-      <img src="https://github.com/lowlighter/lowlighter/blob/master/metrics.plugin.introduction.repository.svg">
+      <img src="https://github.com/khan7276/khan7276/blob/master/metrics.plugin.introduction.repository.svg">
     </details>
     <img width="900" height="1" alt="">
   </td>
