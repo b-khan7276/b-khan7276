@@ -6,8 +6,8 @@
        align="right"
        src="https://api.daily.dev/devcards/e64b61a401e1432789bb8e0eea0c0ac5.png?r=lqn"  alt="Muhammad Bilal Khan's Dev Card"/></a>
 </div>
-  </br>
--🔭 I’m currently working on Ethereum marketplace
+  <br/>
+- 🔭 I’m currently working on Ethereum marketplace
 -🌱 I’m currently learning Ethereum  Blockchain
 -👯 I’m looking to collaborate on Github
 -💬 Ask me about Ethereum Blockchain 
