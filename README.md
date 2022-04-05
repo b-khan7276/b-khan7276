@@ -18,10 +18,10 @@
        src="https://api.daily.dev/devcards/e64b61a401e1432789bb8e0eea0c0ac5.png?r=lqn"  alt="Muhammad Bilal Khan's Dev Card"/></a>
 </div>
  
-- 🔭 I’m currently working on Ethereum marketplace 
-- 🌱 I’m currently learning Ethereum  Blockchain 
+- 🔭 I’m currently as Cyber Security Analyst 
+- 🌱 I’m currently learning Ethical Hacker 
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Ethereum Blockchain 
+- 💬 Ask me about Cyber security
 - 📫 How to reach me: linkedin[@Muhammad Bilal](https://www.linkedin.com/in/bilal-khan-3043b1161/)  
 - ⚡ Fun fact: I'm noob xd 
 
