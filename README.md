@@ -35,7 +35,7 @@
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
-     - [Ethereum Market Place ](https://github.com/b-khan7276/eth-marketplace-fyp) 
+   - [Ethereum Market Place ](https://github.com/b-khan7276/eth-marketplace-fyp) 
    - [NewsApp-React-native ](https://github.com/b-khan7276/NewsApp-React-native) 
    - [Uber-eats-react-native](https://github.com/b-khan7276/uber-eats-react-native) 
    - [Ai assistant](https://github.com/b-khan7276/khaleesi-Ai) 
@@ -44,14 +44,20 @@
 
 
   
-  
+  <h2>Cerificates</h2>
+
   - [Certifications ](https://github.com/b-khan7276/Certificates/blob/main/README.md)
 
-- 🔭 I’m currently as Cyber Security Analyst 
-- 🌱 I’m currently learning Ethical Hacker 
-- 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Cyber security
-- 📫 How to reach me: linkedin[@Muhammad Bilal](https://www.linkedin.com/in/bilal-khan-3043b1161/)  
-- ⚡ Fun fact: I'm noob xd 
+  <h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/bncyber_org
+[instagram]: https://www.instagram.com/bncyber_org
+[linkedin]: https://www.linkedin.com/in/muhammad-bilal-3043b1161/
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=b-khan7276&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
