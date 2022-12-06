@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi, I'm Muhammad Bilal  <br/><a href="https://github.com/b-khan7276">Programmer</a>, <a href=https://www.linkedin.com/in/muhammad-bilal-3043b1161/">Cybersecurity Professional</a>,
 
 <div align="left">  <a href="https://app.daily.dev/bkhan7276" target="blank">
   <a href="https://twitter.com/bilal_k_b__" target="_blank">
