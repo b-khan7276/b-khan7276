@@ -18,11 +18,10 @@
        src="https://api.daily.dev/devcards/e64b61a401e1432789bb8e0eea0c0ac5.png?r=lqn"  alt="Muhammad Bilal Khan's Dev Card"/></a>
 </div>
  <h2>👨‍💻 Cyber Security Projects:</h2>
-   - [CISSP](https://github.com/b-khan7276/CISSP-Diploma) 
   
+   - [CISSP](https://github.com/b-khan7276/CISSP-Diploma) 
    - [Network Defense Essentials NDE ](https://github.com/b-khan7276/Network-Defense-Essentials-NDE-/blob/main/1%20Module%20Network%20Security%20Fundamentals.md) 
    - [Zeek Elk Stack  ](https://github.com/b-khan7276/learning) 
-  
    - [WIFI Hacking  ](https://github.com/b-khan7276/wifi-hking) 
    - [CEH ](https://github.com/b-khan7276/CEH) 
    - [own PRIVATE search engine ](https://github.com/b-khan7276/Own-search-engine) 
