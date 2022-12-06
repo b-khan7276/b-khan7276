@@ -25,9 +25,22 @@
    - [WIFI Hacking  ](https://github.com/b-khan7276/wifi-hking) 
    - [CEH ](https://github.com/b-khan7276/CEH) 
    - [own PRIVATE search engine ](https://github.com/b-khan7276/Own-search-engine) 
-   - [own PRIVATE search engine ](https://github.com/b-khan7276/Own-search-engine) 
+   - [Go Tools For Pentesting ](https://github.com/b-khan7276/Go-Tools-Pentesting) 
+   - [Own Distro Linux  ](https://github.com/b-khan7276/own_linux_distro) 
+   - [Linux-Rootkit-Red-Blue-Teams  ](https://github.com/b-khan7276/Linux-Rootkit-Red-Blue-Teams) 
+   - [Recon-Bugbunties ](https://github.com/b-khan7276/Recon-Bugbunties) 
+   - [Pentesting Tools ](https://github.com/b-khan7276/Pen-testing) 
+   - [Ransomeware-python ](https://github.com/b-khan7276/Ransomeware-python-) 
 
   
+<h2>👨‍💻 Software Development Projects:</h2>
+
+     - [Ethereum Market Place ](https://github.com/b-khan7276/eth-marketplace-fyp) 
+   - [NewsApp-React-native ](https://github.com/b-khan7276/NewsApp-React-native) 
+   - [Uber-eats-react-native](https://github.com/b-khan7276/uber-eats-react-native) 
+   - [Ai assistant](https://github.com/b-khan7276/khaleesi-Ai) 
+   - [ProShop eCommerce Platform](https://github.com/b-khan7276/proshop1) 
+   - [GUN Chat Dapp](https://github.com/b-khan7276/decentralized-chat-dapp-) 
 
 
   
