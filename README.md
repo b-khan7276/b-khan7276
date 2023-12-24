@@ -11,12 +11,12 @@
     <img
         src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86" />
   </a>
-  
+  <!--
   <img 
        width="256"
        align="right"
-       src="https://api.daily.dev/devcards/e64b61a401e1432789bb8e0eea0c0ac5.png?r=lqn"  alt="Muhammad Bilal Khan's Dev Card"/></a>
-</div>
+       src="https://api.daily.dev/devcards/e64b61a401e1432789bb8e0eea0c0ac5.png?r=lqn"  alt="Muhammad Bilal Khan's Dev Card"/></a> -->
+</div> 
  <h2>👨‍💻 Cyber Security Projects:</h2>
   
    - [CISSP](https://github.com/b-khan7276/CISSP-Diploma) 
